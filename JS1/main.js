@@ -1,7 +1,8 @@
-
+ 
 
 var A = "this is a string";
 document.write(A)
+
 
 
 document.write("\"be who you are and say what you feel," + "because those who dont mind don\'t matter abd tgise who matter don\'t mind.\"");
@@ -23,3 +24,5 @@ function My_First_Function() { //defining a function and naming it
 
     var result = str.fontcolor("green").innerHTML = result; //putting the value of result into HTML element with "green_text" id
 }
+
+document.write(A + B);
