@@ -25,7 +25,7 @@ function division() {
 
 function more_Math() {
     var simple_Math = (1 + 2) * 10 / 2 -5; //multiple operators give the answer asked for
-    document.getElementById("math").innerHTML = "1 plus 2, multiplied by 10 divided in half and then subtracted by 5 equals " + simple_math
+    document.getElementById("math").innerHTML = "1 plus 2, multiplied by 10 divided in half and then subtracted by 5 equals " + simpleMath
   
 } 
  
@@ -44,9 +44,9 @@ function more_Math() {
  X++
  document.write(X);
 
- var x = 5.25;
- X--;
- document.write(x)
+ var C = 5.25;
+ C--;
+ document.write(C)
 
  window.alert(Math.random() * 150);
 
